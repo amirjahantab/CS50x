@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: in the time test on the reverse data, it took the most compile time
+
+sort2 uses: Merge Sort
+
+How do you know?: in the time test on the reverse data, it took the least compile time
+
+sort3 uses: Selection Sort
+
+How do you know?: because the compilation time of this code was between two previous sortings, I recognized that it is Selection Sort
